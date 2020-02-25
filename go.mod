@@ -1,4 +1,4 @@
-module github.com/proxeusapp/node-go
+module github.com/ProxeusApp/node-go
 
 go 1.13
 
